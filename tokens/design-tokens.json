@@ -4,6 +4,7 @@
       "bg/blue/default": {
         "$type": "color",
         "$value": "{blue/100}",
+        "$description": "プライマリーアクションやリンクに使用する標準的な青色背景。ボタンやカードの基本色として利用です",
         "$extensions": {
           "com.figma": {
             "id": "VariableID:8840:44",
@@ -14,6 +15,7 @@
       "bg/blue/hover": {
         "$type": "color",
         "$value": "{blue/200}",
+        "$description": "青色要素にマウスオーバーした際の背景色。インタラクティブな状態を示す濃い青",
         "$extensions": {
           "com.figma": {
             "id": "VariableID:8840:43",
@@ -24,6 +26,7 @@
       "bg/blue/selected": {
         "$type": "color",
         "$value": "{blue/300}",
+        "$description": "選択状態を表す青色背景。アクティブなタブやメニュー項目に使用",
         "$extensions": {
           "com.figma": {
             "id": "VariableID:8840:42",
@@ -34,6 +37,7 @@
       "bg/blue/subtle": {
         "$type": "color",
         "$value": "{blue/50}",
+        "$description": "控えめな青色背景。情報表示やセカンダリーエリアに使用する薄い青",
         "$extensions": {
           "com.figma": {
             "id": "VariableID:8840:45",
@@ -44,6 +48,7 @@
       "bg/green/default": {
         "$type": "color",
         "$value": "{green/100}",
+        "$description": "成功状態や肯定的なアクションを示す標準的な緑色背景",
         "$extensions": {
           "com.figma": {
             "id": "VariableID:8840:50",
@@ -54,6 +59,7 @@
       "bg/green/hover": {
         "$type": "color",
         "$value": "{green/200}",
+        "$description": "緑色要素のホバー状態。成功ボタンやポジティブなアクションのインタラクション時",
         "$extensions": {
           "com.figma": {
             "id": "VariableID:8840:49",
@@ -64,6 +70,7 @@
       "bg/green/selected": {
         "$type": "color",
         "$value": "{green/300}",
+        "$description": "選択された成功状態要素の背景色。完了済みタスクや選択中の項目",
         "$extensions": {
           "com.figma": {
             "id": "VariableID:8840:48",
@@ -74,6 +81,7 @@
       "bg/green/subtle": {
         "$type": "color",
         "$value": "{green/50}",
+        "$description": "軽微な成功メッセージや情報表示用の薄い緑色背景",
         "$extensions": {
           "com.figma": {
             "id": "VariableID:8840:51",
@@ -84,6 +92,7 @@
       "bg/grey/default": {
         "$type": "color",
         "$value": "{grey/100}",
+        "$description": "ニュートラルな背景色。コンテナやカードの標準背景",
         "$extensions": {
           "com.figma": {
             "id": "VariableID:8840:39",
@@ -94,6 +103,7 @@
       "bg/grey/hover": {
         "$type": "color",
         "$value": "{grey/200}",
+        "$description": "グレー要素のホバー状態。ニュートラルボタンやメニュー項目のインタラクション時",
         "$extensions": {
           "com.figma": {
             "id": "VariableID:8840:38",
@@ -104,6 +114,7 @@
       "bg/grey/selected": {
         "$type": "color",
         "$value": "{grey/300}",
+        "$description": "選択されたニュートラル要素の背景色。非アクティブな選択状態",
         "$extensions": {
           "com.figma": {
             "id": "VariableID:8840:37",

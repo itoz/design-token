@@ -1,0 +1,1354 @@
+{
+  "color": {
+    "bg": {
+      "blue": {
+        "dark": {
+          "$type": "color",
+          "$value": "{color.blue.100}",
+          "$description": "UI背景に利用するブルーの強調色。ホバー時などに利用",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-bg-blue-dark)"
+              }
+            }
+          }
+        },
+        "default": {
+          "$type": "color",
+          "$value": "{color.blue.50}",
+          "$description": "UI背景に利用するブルーの標準色",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-bg-blue-default)"
+              }
+            }
+          }
+        },
+        "light": {
+          "$type": "color",
+          "$value": "{color.white}",
+          "$description": "UI背景に利用するブルーの抑制色",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-bg-blue-light)"
+              }
+            }
+          }
+        }
+      },
+      "disabled": {
+        "$type": "color",
+        "$value": "{color.gray.100}",
+        "$description": "DisabledのUIの背景に利用",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--kamii-color-bg-disabled)"
+            }
+          }
+        }
+      },
+      "gray": {
+        "dark": {
+          "$type": "color",
+          "$value": "{color.gray.100}",
+          "$description": "UI背景に利用するグレーの強調色。ホバー時などに利用",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-bg-gray-dark)"
+              }
+            }
+          }
+        },
+        "default": {
+          "$type": "color",
+          "$value": "{color.gray.50}",
+          "$description": "UI背景に利用するグレーの標準色",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-bg-gray-default)"
+              }
+            }
+          }
+        },
+        "light": {
+          "$type": "color",
+          "$value": "{color.gray.20}",
+          "$description": "UI背景に利用するグレーの抑制色",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-bg-gray-light)"
+              }
+            }
+          }
+        }
+      },
+      "green": {
+        "dark": {
+          "$type": "color",
+          "$value": "{color.green.100}",
+          "$description": "UI背景に利用するグリーンの強調色。ホバー時などに利用",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-bg-green-dark)"
+              }
+            }
+          }
+        },
+        "default": {
+          "$type": "color",
+          "$value": "{color.green.50}",
+          "$description": "UI背景に利用するグリーンの標準色",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-bg-green-default)"
+              }
+            }
+          }
+        },
+        "light": {
+          "$type": "color",
+          "$value": "{color.white}",
+          "$description": "UI背景に利用するグリーンの抑制色",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-bg-green-light)"
+              }
+            }
+          }
+        }
+      },
+      "orange": {
+        "dark": {
+          "$type": "color",
+          "$value": "{color.orange.100}",
+          "$description": "UI背景に利用するオレンジの強調色。ホバー時などに利用",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-bg-orange-dark)"
+              }
+            }
+          }
+        },
+        "default": {
+          "$type": "color",
+          "$value": "{color.orange.50}",
+          "$description": "UI背景に利用するオレンジの標準色",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-bg-orange-default)"
+              }
+            }
+          }
+        },
+        "light": {
+          "$type": "color",
+          "$value": "{color.white}",
+          "$description": "UI背景に利用するオレンジの抑制色",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-bg-orange-light)"
+              }
+            }
+          }
+        }
+      },
+      "primary": {
+        "dark": {
+          "$type": "color",
+          "$value": "{color.primary.100}",
+          "$description": "UI背景に利用するプライマリーの強調色。ホバー時などに利用",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-bg-primary-dark)"
+              }
+            }
+          }
+        },
+        "default": {
+          "$type": "color",
+          "$value": "{color.primary.50}",
+          "$description": "UI背景に利用するプライマリーの標準色",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-bg-primary-default)"
+              }
+            }
+          }
+        },
+        "light": {
+          "$type": "color",
+          "$value": "{color.white}",
+          "$description": "UI背景に利用するプライマリーの抑制色",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-bg-primary-light)"
+              }
+            }
+          }
+        }
+      },
+      "red": {
+        "dark": {
+          "$type": "color",
+          "$value": "{color.red.100}",
+          "$description": "UI背景に利用するレッドの強調色。ホバー時などに利用",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-bg-red-dark)"
+              }
+            }
+          }
+        },
+        "default": {
+          "$type": "color",
+          "$value": "{color.red.50}",
+          "$description": "UI背景に利用するレッドの標準色",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-bg-red-default)"
+              }
+            }
+          }
+        },
+        "light": {
+          "$type": "color",
+          "$value": "{color.white}",
+          "$description": "UI背景に利用するレッドの抑制色",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-bg-red-light)"
+              }
+            }
+          }
+        }
+      },
+      "yellow": {
+        "dark": {
+          "$type": "color",
+          "$value": "{color.yellow.100}",
+          "$description": "UI背景に利用するイエローの強調色。ホバー時などに利用",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-bg-yellow-dark)"
+              }
+            }
+          }
+        },
+        "default": {
+          "$type": "color",
+          "$value": "{color.yellow.50}",
+          "$description": "UI背景に利用するイエローの標準色",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-bg-yellow-default)"
+              }
+            }
+          }
+        },
+        "light": {
+          "$type": "color",
+          "$value": "{color.white}",
+          "$description": "UI背景に利用するイエローの抑制色",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-bg-yellow-light)"
+              }
+            }
+          }
+        }
+      }
+    },
+    "border": {
+      "blue": {
+        "dark": {
+          "$type": "color",
+          "$value": "{color.blue.500}",
+          "$description": "ボーダーに利用するブルーの強調色。ホバー時などに利用",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-border-blue-dark)"
+              }
+            }
+          }
+        },
+        "default": {
+          "$type": "color",
+          "$value": "{color.blue.200}",
+          "$description": "ボーダーに利用するブルーの標準色",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-border-blue-default)"
+              }
+            }
+          }
+        },
+        "light": {
+          "$type": "color",
+          "$value": "{color.blue.100}",
+          "$description": "ボーダーに利用するブルーの抑制色",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-border-blue-light)"
+              }
+            }
+          }
+        }
+      },
+      "gray": {
+        "dark": {
+          "$type": "color",
+          "$value": "{color.gray.500}",
+          "$description": "ボーダーに利用するグレーの強調色。ホバー時などに利用",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-border-gray-dark)"
+              }
+            }
+          }
+        },
+        "default": {
+          "$type": "color",
+          "$value": "{color.gray.200}",
+          "$description": "ボーダーに利用するグレーの標準色",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-border-gray-default)"
+              }
+            }
+          }
+        },
+        "light": {
+          "$type": "color",
+          "$value": "{color.gray.100}",
+          "$description": "ボーダーに利用するグレーの抑制色",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-border-gray-light)"
+              }
+            }
+          }
+        }
+      },
+      "green": {
+        "dark": {
+          "$type": "color",
+          "$value": "{color.green.500}",
+          "$description": "ボーダーに利用するグリーンの強調色。ホバー時などに利用",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-border-green-dark)"
+              }
+            }
+          }
+        },
+        "default": {
+          "$type": "color",
+          "$value": "{color.green.200}",
+          "$description": "ボーダーに利用するグリーンの標準色",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-border-green-default)"
+              }
+            }
+          }
+        },
+        "light": {
+          "$type": "color",
+          "$value": "{color.green.100}",
+          "$description": "ボーダーに利用するグリーンの抑制色",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-border-green-light)"
+              }
+            }
+          }
+        }
+      },
+      "orange": {
+        "dark": {
+          "$type": "color",
+          "$value": "{color.orange.500}",
+          "$description": "ボーダーに利用するオレンジの強調色。ホバー時などに利用",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-border-orange-dark)"
+              }
+            }
+          }
+        },
+        "default": {
+          "$type": "color",
+          "$value": "{color.orange.200}",
+          "$description": "ボーダーに利用するオレンジの標準色",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-border-orange-default)"
+              }
+            }
+          }
+        },
+        "light": {
+          "$type": "color",
+          "$value": "{color.orange.100}",
+          "$description": "ボーダーに利用するオレンジの抑制色",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-border-orange-light)"
+              }
+            }
+          }
+        }
+      },
+      "primary": {
+        "dark": {
+          "$type": "color",
+          "$value": "{color.primary.500}",
+          "$description": "UIのボーダーのホバーなど強調に利用されるプライマリーカラー",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-border-primary-dark)"
+              }
+            }
+          }
+        },
+        "default": {
+          "$type": "color",
+          "$value": "{color.primary.200}",
+          "$description": "UIのボーダーに利用される標準のプライマリーカラー",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-border-primary-default)"
+              }
+            }
+          }
+        },
+        "light": {
+          "$type": "color",
+          "$value": "{color.primary.100}",
+          "$description": "ボーダーに利用するプライマリーの抑制色",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-border-primary-light)"
+              }
+            }
+          }
+        }
+      },
+      "red": {
+        "dark": {
+          "$type": "color",
+          "$value": "{color.red.500}",
+          "$description": "ボーダーに利用するレッドの強調色。ホバー時などに利用",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-border-red-dark)"
+              }
+            }
+          }
+        },
+        "default": {
+          "$type": "color",
+          "$value": "{color.red.200}",
+          "$description": "ボーダーに利用するレッドの標準色",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-border-red-default)"
+              }
+            }
+          }
+        },
+        "light": {
+          "$type": "color",
+          "$value": "{color.red.100}",
+          "$description": "ボーダーに利用するレッドの抑制色",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-border-red-light)"
+              }
+            }
+          }
+        }
+      },
+      "yellow": {
+        "dark": {
+          "$type": "color",
+          "$value": "{color.yellow.500}",
+          "$description": "ボーダーに利用するイエローの強調色。ホバー時などに利用",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-border-yellow-dark)"
+              }
+            }
+          }
+        },
+        "default": {
+          "$type": "color",
+          "$value": "{color.yellow.200}",
+          "$description": "ボーダーに利用するイエローの標準色",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-border-yellow-default)"
+              }
+            }
+          }
+        },
+        "light": {
+          "$type": "color",
+          "$value": "{color.yellow.100}",
+          "$description": "ボーダーに利用するイエローの抑制色",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-border-yellow-light)"
+              }
+            }
+          }
+        }
+      }
+    },
+    "danger": {
+      "dark": {
+        "$type": "color",
+        "$value": "{color.red.700}",
+        "$description": "エラー通知やホバー時の強調に使用。エラー状態を強調して示す。",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--kamii-color-danger-dark)"
+            }
+          }
+        }
+      },
+      "default": {
+        "$type": "color",
+        "$value": "{color.red.600}",
+        "$description": "フォームのバリデーションエラーやアラートバナーの背景に使用。エラーや警告を示す。",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--kamii-color-danger-default)"
+            }
+          }
+        }
+      }
+    },
+    "focus": {
+      "$type": "color",
+      "$value": "{color.blue.400}",
+      "$description": "各種UIにフォーカスがあたったときの枠線のカラーとして利用します。",
+      "$extensions": {
+        "com.figma": {
+          "hiddenFromPublishing": false,
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "var(--kamii-color-focus)"
+          }
+        }
+      }
+    },
+    "text": {
+      "blue": {
+        "dark": {
+          "$type": "color",
+          "$value": "{color.blue.800}",
+          "$description": "青系統の強調テキストカラー。",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-text-blue-dark)"
+              }
+            }
+          }
+        },
+        "default": {
+          "$type": "color",
+          "$value": "{color.blue.700}",
+          "$description": "青系統の標準テキストカラー。",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-text-blue-default)"
+              }
+            }
+          }
+        },
+        "light": {
+          "$type": "color",
+          "$value": "{color.blue.600}",
+          "$description": "青系統の補足的テキストカラー。",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-text-blue-light)"
+              }
+            }
+          }
+        }
+      },
+      "disabled": {
+        "$type": "color",
+        "$value": "{color.white}",
+        "$description": "Disabledのテキストに使用します。",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--kamii-color-text-disabled)"
+            }
+          }
+        }
+      },
+      "disabled-dark": {
+        "$type": "color",
+        "$value": "{color.gray.200}",
+        "$description": "背景が白の場合のDisabledのテキストに使用。",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--kamii-color-text-disabled-dark)"
+            }
+          }
+        }
+      },
+      "gray": {
+        "dark": {
+          "$type": "color",
+          "$value": "{color.gray.900}",
+          "$description": "標準テキストカラーを強調する場合に使用。",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-text-gray-dark)"
+              }
+            }
+          }
+        },
+        "default": {
+          "$type": "color",
+          "$value": "{color.gray.800}",
+          "$description": "最も標準テキストカラーに使用。",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-text-gray-default)"
+              }
+            }
+          }
+        },
+        "light": {
+          "$type": "color",
+          "$value": "{color.gray.600}",
+          "$description": "最も標準テキストカラーで注釈など、補足的なものを示す場合に使用。",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-text-gray-light)"
+              }
+            }
+          }
+        }
+      },
+      "green": {
+        "dark": {
+          "$type": "color",
+          "$value": "{color.green.800}",
+          "$description": "グリーン系統の強調テキストカラー。",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-text-green-dark)"
+              }
+            }
+          }
+        },
+        "default": {
+          "$type": "color",
+          "$value": "{color.green.700}",
+          "$description": "グリーン系統の標準テキストカラー。",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-text-green-default)"
+              }
+            }
+          }
+        },
+        "light": {
+          "$type": "color",
+          "$value": "{color.green.600}",
+          "$description": "グリーン系統の補足的テキストカラー。",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-text-green-light)"
+              }
+            }
+          }
+        }
+      },
+      "link": {
+        "$type": "color",
+        "$value": "{color.blue.700}",
+        "$description": "テキストリンクやインラインボタンに使用。クリック可能であることを示す。",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--kamii-color-text-link)"
+            }
+          }
+        }
+      },
+      "orange": {
+        "dark": {
+          "$type": "color",
+          "$value": "{color.orange.800}",
+          "$description": "オレンジ系統の強調テキストカラー。",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-text-orange-dark)"
+              }
+            }
+          }
+        },
+        "default": {
+          "$type": "color",
+          "$value": "{color.orange.700}",
+          "$description": "オレンジ系統の標準テキストカラー。",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-text-orange-default)"
+              }
+            }
+          }
+        },
+        "light": {
+          "$type": "color",
+          "$value": "{color.orange.600}",
+          "$description": "オレンジ系統の補足的テキストカラー。",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-text-orange-light)"
+              }
+            }
+          }
+        }
+      },
+      "placeholder": {
+        "$type": "color",
+        "$value": "{color.gray.300}",
+        "$description": "入力フィールドのプレースホルダーテキストに使用。",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--kamii-color-text-placeholder)"
+            }
+          }
+        }
+      },
+      "primary": {
+        "dark": {
+          "$type": "color",
+          "$value": "{color.primary.800}",
+          "$description": "テキストのプライマリーカラーのホバーなど強調に使用。",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-text-primary-dark)"
+              }
+            }
+          }
+        },
+        "default": {
+          "$type": "color",
+          "$value": "{color.primary.700}",
+          "$description": "テキストのプライマリーカラーに使用。",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-text-primary-default)"
+              }
+            }
+          }
+        },
+        "light": {
+          "$type": "color",
+          "$value": "{color.primary.600}",
+          "$description": "テキストプライマリーカラーの補足テキストに使用。補助的なテキストを示す。",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-text-primary-light)"
+              }
+            }
+          }
+        }
+      },
+      "red": {
+        "dark": {
+          "$type": "color",
+          "$value": "{color.red.800}",
+          "$description": "レッド系統の強調テキストカラー。",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-text-red-dark)"
+              }
+            }
+          }
+        },
+        "default": {
+          "$type": "color",
+          "$value": "{color.red.700}",
+          "$description": "レッド系統の標準テキストカラー。",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-text-red-default)"
+              }
+            }
+          }
+        },
+        "light": {
+          "$type": "color",
+          "$value": "{color.red.600}",
+          "$description": "レッド系統の補足的テキストカラー。",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-text-red-light)"
+              }
+            }
+          }
+        }
+      },
+      "yellow": {
+        "dark": {
+          "$type": "color",
+          "$value": "{color.yellow.800}",
+          "$description": "イエロー系統の強調テキストカラー。",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-text-yellow-dark)"
+              }
+            }
+          }
+        },
+        "default": {
+          "$type": "color",
+          "$value": "{color.yellow.700}",
+          "$description": "イエロー系統の標準テキストカラー。",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-text-yellow-default)"
+              }
+            }
+          }
+        },
+        "light": {
+          "$type": "color",
+          "$value": "{color.yellow.600}",
+          "$description": "イエロー系統の補足的テキストカラー。",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--kamii-color-text-yellow-light)"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "heading": {
+    "h1": {
+      "$type": "number",
+      "$value": "{font-size.3xl}",
+      "$description": "ページの主要見出しに使用。最上位の見出し階層を示す。",
+      "$extensions": {
+        "com.figma": {
+          "hiddenFromPublishing": false,
+          "scopes": [
+            "FONT_SIZE"
+          ],
+          "codeSyntax": {
+            "WEB": "var(--kamii-heading-h1)"
+          }
+        }
+      }
+    },
+    "h2": {
+      "$type": "number",
+      "$value": "{font-size.2xl}",
+      "$description": "セクション見出しに使用。第二階層の見出しを示す。",
+      "$extensions": {
+        "com.figma": {
+          "hiddenFromPublishing": false,
+          "scopes": [
+            "FONT_SIZE"
+          ],
+          "codeSyntax": {
+            "WEB": "var(--kamii-heading-h2)"
+          }
+        }
+      }
+    },
+    "h3": {
+      "$type": "number",
+      "$value": "{font-size.xl}",
+      "$description": "副見出しに使用。第三階層の見出しを示す。",
+      "$extensions": {
+        "com.figma": {
+          "hiddenFromPublishing": false,
+          "scopes": [
+            "FONT_SIZE"
+          ],
+          "codeSyntax": {
+            "WEB": "var(--kamii-heading-h3)"
+          }
+        }
+      }
+    },
+    "h4": {
+      "$type": "number",
+      "$value": "{font-size.lg}",
+      "$description": "小見出しに使用。第四階層の見出しを示す。",
+      "$extensions": {
+        "com.figma": {
+          "hiddenFromPublishing": false,
+          "scopes": [
+            "FONT_SIZE"
+          ],
+          "codeSyntax": {
+            "WEB": "var(--kamii-heading-h4)"
+          }
+        }
+      }
+    },
+    "h5": {
+      "$type": "number",
+      "$value": "{font-size.md}",
+      "$description": "セクション内のサブ見出しに使用。第五階層の見出しを示す。",
+      "$extensions": {
+        "com.figma": {
+          "hiddenFromPublishing": false,
+          "scopes": [
+            "FONT_SIZE"
+          ],
+          "codeSyntax": {
+            "WEB": "var(--kamii-heading-h5)"
+          }
+        }
+      }
+    },
+    "h6": {
+      "$type": "number",
+      "$value": "{font-size.sm}",
+      "$description": "更に小さい見出しに使用。第六階層の見出しを示す。",
+      "$extensions": {
+        "com.figma": {
+          "hiddenFromPublishing": false,
+          "scopes": [
+            "FONT_SIZE"
+          ],
+          "codeSyntax": {
+            "WEB": "var(--kamii-heading-h6)"
+          }
+        }
+      }
+    }
+  },
+  "text-body": {
+    "caption": {
+      "$type": "number",
+      "$value": "{font-size.2xs}",
+      "$description": "キャプションテキストに使用。付随情報を示す。",
+      "$extensions": {
+        "com.figma": {
+          "hiddenFromPublishing": false,
+          "scopes": [
+            "FONT_SIZE"
+          ],
+          "codeSyntax": {
+            "WEB": "var(--kamii-text-body-caption)"
+          }
+        }
+      }
+    },
+    "lg": {
+      "$type": "number",
+      "$value": "{font-size.lg}",
+      "$description": "本文テキストに使用。主要コンテンツを示す。",
+      "$extensions": {
+        "com.figma": {
+          "hiddenFromPublishing": false,
+          "scopes": [
+            "FONT_SIZE"
+          ],
+          "codeSyntax": {
+            "WEB": "var(--kamii-text-body-lg)"
+          }
+        }
+      }
+    },
+    "md": {
+      "$type": "number",
+      "$value": "{font-size.md}",
+      "$description": "標準テキストに使用するフォントサイズ",
+      "$extensions": {
+        "com.figma": {
+          "hiddenFromPublishing": false,
+          "scopes": [
+            "FONT_SIZE"
+          ],
+          "codeSyntax": {
+            "WEB": "var(--kamii-text-body-md)"
+          }
+        }
+      }
+    },
+    "sm": {
+      "$type": "number",
+      "$value": "{font-size.sm}",
+      "$description": "補足テキストに使用。",
+      "$extensions": {
+        "com.figma": {
+          "hiddenFromPublishing": false,
+          "scopes": [
+            "FONT_SIZE"
+          ],
+          "codeSyntax": {
+            "WEB": "var(--kamii-text-body-sm)"
+          }
+        }
+      }
+    }
+  }
+}

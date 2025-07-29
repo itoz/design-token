@@ -1,0 +1,64 @@
+{
+  "box-shadow": {
+    "10": {
+      "$type": "string",
+      "$value": "0px 2px 4px rgba(0, 0, 0, 0.2)",
+      "$extensions": {
+        "com.figma": {
+          "hiddenFromPublishing": false,
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "var(--kamii-box-shadow-10)"
+          }
+        }
+      }
+    },
+    "20": {
+      "$type": "string",
+      "$value": "0px 3px 8px rgba(0, 0, 0, 0.2)",
+      "$extensions": {
+        "com.figma": {
+          "hiddenFromPublishing": false,
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "var(--kamii-box-shadow-20)"
+          }
+        }
+      }
+    },
+    "30": {
+      "$type": "string",
+      "$value": "0px 6px 10px 1px rgba(0, 0, 0, 0.2)",
+      "$extensions": {
+        "com.figma": {
+          "hiddenFromPublishing": false,
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "var(--kamii-box-shadow-30)"
+          }
+        }
+      }
+    },
+    "40": {
+      "$type": "string",
+      "$value": "0px 8px 12px 2px rgba(0, 0, 0, 0.2)",
+      "$extensions": {
+        "com.figma": {
+          "hiddenFromPublishing": false,
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "var(--kamii-box-shadow-40)"
+          }
+        }
+      }
+    }
+  }
+}

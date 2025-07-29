@@ -1,0 +1,348 @@
+{
+  "color": {
+    "accent": {
+      "dark": {
+        "$type": "color",
+        "$value": "{color.red.600}",
+        "$description": "サービスごとに異なる強調アクセントカラー",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--kamii-color-accent-dark)"
+            }
+          }
+        }
+      },
+      "default": {
+        "$type": "color",
+        "$value": "{color.orange.400}",
+        "$description": "サービスごとに異なる標準アクセントカラー",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--kamii-color-accent-default)"
+            }
+          }
+        }
+      },
+      "light": {
+        "$type": "color",
+        "$value": "{color.red.50}",
+        "$description": "サービスごとに異なるアクセント抑制カラー",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--kamii-color-accent-light)"
+            }
+          }
+        }
+      }
+    },
+    "cta": {
+      "dark": {
+        "$type": "color",
+        "$value": "{color.orange.500}",
+        "$description": "サービスごとに異なる強調CTAカラー",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--kamii-color-cta-dark)"
+            }
+          }
+        }
+      },
+      "default": {
+        "$type": "color",
+        "$value": "{color.orange.400}",
+        "$description": "サービスごとに異なる標準CTAカラー",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--kamii-color-cta-default)"
+            }
+          }
+        }
+      },
+      "light": {
+        "$type": "color",
+        "$value": "{color.orange.50}",
+        "$description": "サービスごとに異なるCTA抑制カラー",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--kamii-color-cta-light)"
+            }
+          }
+        }
+      }
+    },
+    "primary": {
+      "50": {
+        "$type": "color",
+        "$value": "{color.blue.50}",
+        "$description": "サービスごとに異なるプライマリーカラー50",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--kamii-color-primary-50)"
+            }
+          }
+        }
+      },
+      "100": {
+        "$type": "color",
+        "$value": "{color.blue.100}",
+        "$description": "サービスごとに異なるプライマリーカラー100",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--kamii-color-primary-100)"
+            }
+          }
+        }
+      },
+      "200": {
+        "$type": "color",
+        "$value": "{color.blue.200}",
+        "$description": "サービスごとに異なるプライマリーカラー200",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--kamii-color-primary-200)"
+            }
+          }
+        }
+      },
+      "300": {
+        "$type": "color",
+        "$value": "{color.blue.300}",
+        "$description": "サービスごとに異なるプライマリーカラー300",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--kamii-color-primary-300)"
+            }
+          }
+        }
+      },
+      "400": {
+        "$type": "color",
+        "$value": "{color.blue.400}",
+        "$description": "サービスごとに異なるプライマリーカラー400",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--kamii-color-primary-400)"
+            }
+          }
+        }
+      },
+      "500": {
+        "$type": "color",
+        "$value": "{color.blue.500}",
+        "$description": "サービスごとに異なるプライマリーカラー500",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--kamii-color-primary-500)"
+            }
+          }
+        }
+      },
+      "600": {
+        "$type": "color",
+        "$value": "{color.blue.600}",
+        "$description": "サービスごとに異なるプライマリーカラー600",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--kamii-color-primary-600)"
+            }
+          }
+        }
+      },
+      "700": {
+        "$type": "color",
+        "$value": "{color.blue.700}",
+        "$description": "サービスごとに異なるプライマリーカラー700",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--kamii-color-primary-700)"
+            }
+          }
+        }
+      },
+      "800": {
+        "$type": "color",
+        "$value": "{color.blue.800}",
+        "$description": "サービスごとに異なるプライマリーカラー800",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--kamii-color-primary-800)"
+            }
+          }
+        }
+      },
+      "dark": {
+        "$type": "color",
+        "$value": "{color.blue.800}",
+        "$description": "サービスごとに異なるプライマリー強調カラー。ホバーなどに利用",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--kamii-color-primary-dark)"
+            }
+          }
+        }
+      },
+      "default": {
+        "$type": "color",
+        "$value": "{color.blue.700}",
+        "$description": "サービスごとに異なるプライマリー標準カラー",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--kamii-color-primary-default)"
+            }
+          }
+        }
+      },
+      "light": {
+        "$type": "color",
+        "$value": "{color.blue.50}",
+        "$description": "サービスごとに異なるプライマリー抑制色。",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--kamii-color-primary-light)"
+            }
+          }
+        }
+      }
+    },
+    "secondary": {
+      "dark": {
+        "$type": "color",
+        "$value": "{color.gray.100}",
+        "$description": "サービスごとに異なる強調セカンダリカラー",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--kamii-color-secondary-dark)"
+            }
+          }
+        }
+      },
+      "default": {
+        "$type": "color",
+        "$value": "{color.gray.50}",
+        "$description": "サービスごとに異なる標準セカンダリカラー",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--kamii-color-secondary-default)"
+            }
+          }
+        }
+      },
+      "light": {
+        "$type": "color",
+        "$value": "{color.gray.20}",
+        "$description": "サービスごとに異なるセカンダリ抑制カラー",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--kamii-color-secondary-light)"
+            }
+          }
+        }
+      }
+    }
+  }
+}
